@@ -1,5 +1,5 @@
-ÖĞÎÄ£º
+ä¸­æ–‡ï¼š
 java -Dfile.encoding=utf-8 -javaagent:BurpSuiteCn.jar -Xbootclasspath/p:burp-loader-keygen.jar -jar -Xmx1024m burpsuite_pro_v1.7.32.jar
 
 ================================================
-±ã½İÆô¶¯½Å±¾£ºrunburp2.vbs
+ä¾¿æ·å¯åŠ¨è„šæœ¬ï¼šrunburp2.vbs
