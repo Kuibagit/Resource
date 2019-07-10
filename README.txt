@@ -3,7 +3,7 @@ update：2019-03-16
 
 RAR密码爆破: ARPR-ha.zip
 
-截屏工具：FSCaptrue.rar
+录屏截屏工具：FSCaptrue.rar
 
 C刀：Cknife.zip
 
@@ -23,5 +23,5 @@ winhex编辑器-汉化版：Winhex.rar
 
 UEFI编辑器：EasyUEFI 3.1 Enterprise.zip
 
-录屏截图：FSCaptrue.rar
+
 
