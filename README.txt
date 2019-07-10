@@ -1,22 +1,23 @@
 
-update£º2019-03-16
+updateï¼š2019-03-16
 
-RARÃÜÂë±¬ÆÆ: ARPR-ha.zip
+RARå¯†ç çˆ†ç ´: ARPR-ha.zip
 
-½ØÆÁ¹¤¾ß£ºFSCaptrue.rar
+æˆªå±å·¥å…·ï¼šFSCaptrue.rar
 
-Cµ¶£ºCknife.zip
+Cåˆ€ï¼šCknife.zip
 
-±ùµãÏÂÔØÆ÷£ºFish.rar
+å†°ç‚¹ä¸‹è½½å™¨ï¼šFish.rar
 
-zipÃÜÂë±¬ÆÆ£ºZiperello.rar
+zipå¯†ç çˆ†ç ´ï¼šZiperello.rar
 
-Âì½££ºAntSword.rar
+èš‚å‰‘ï¼šAntSword.rar
 
-Çå³ıÖ÷»úÈÕÖ¾£ºLog-killer
+æ¸…é™¤ä¸»æœºæ—¥å¿—ï¼šLog-killer
 
-web vulnÉ¨Ãè£ºwwwscan.rar
+web vulnæ‰«æï¼šwwwscan.rar
 
-winhex±à¼­Æ÷-ºº»¯°æ£ºWinhex.rar
+winhexç¼–è¾‘å™¨-æ±‰åŒ–ç‰ˆï¼šWinhex.rar
 
-Ô¶³ÌÁ¬½Ó¹¤¾ß£¬sshÖ®ÀàµÄ£ºPutty
+è¿œç¨‹è¿æ¥å·¥å…·ï¼Œsshä¹‹ç±»çš„ï¼šPutty
+UEFIç¼–è¾‘å™¨ï¼šEasyUEFI 3.1 Enterprise.zip
