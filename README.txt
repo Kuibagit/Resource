@@ -20,4 +20,8 @@ web vuln扫描：wwwscan.rar
 winhex编辑器-汉化版：Winhex.rar
 
 远程连接工具，ssh之类的：Putty
+
 UEFI编辑器：EasyUEFI 3.1 Enterprise.zip
+
+录屏截图：FSCaptrue.rar
+
